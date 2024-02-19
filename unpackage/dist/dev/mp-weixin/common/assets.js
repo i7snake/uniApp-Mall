@@ -1,0 +1,15 @@
+"use strict";
+const messagePNG = "/static/images/profile/message.png";
+const appPNG = "/static/images/profile/app.png";
+const vipPNG = "/static/images/profile/vip.png";
+const cartPNG = "/static/images/profile/cart.png";
+const pointerPNG = "/static/images/profile/pointer.png";
+const _imports_0$1 = "/static/images/common/favor.png";
+const _imports_0 = "/static/recommend_bg.jpg";
+exports._imports_0 = _imports_0$1;
+exports._imports_0$1 = _imports_0;
+exports.appPNG = appPNG;
+exports.cartPNG = cartPNG;
+exports.messagePNG = messagePNG;
+exports.pointerPNG = pointerPNG;
+exports.vipPNG = vipPNG;

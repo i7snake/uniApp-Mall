@@ -1,0 +1,1 @@
+<view class="detail-recommend-info"><view class="info-header">热门推荐</view><view class="goods-list"><block wx:for="{{a}}" wx:for-item="item" wx:key="d"><view class="item"><grid-view-item wx:if="{{item.c}}" binditemClick="{{item.a}}" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"></grid-view-item></view></block></view></view>

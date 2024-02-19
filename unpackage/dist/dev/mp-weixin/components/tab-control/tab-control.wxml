@@ -1,0 +1,1 @@
+<view class="tab-control"><block wx:for="{{a}}" wx:for-item="title" wx:key="d"><view class="{{['item', title.b]}}" bindtap="{{title.c}}"><text class="title">{{title.a}}</text></view></block></view>

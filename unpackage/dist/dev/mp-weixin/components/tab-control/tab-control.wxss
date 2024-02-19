@@ -1,0 +1,19 @@
+.tab-control {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 10rpx;
+  margin-top: 10rpx;
+  text-align: center;
+}
+.tab-control .item {
+  flex: 1;
+}
+.tab-control .item .title {
+  display: inline-block;
+  padding: 16rpx;
+}
+.tab-control .item.active .title {
+  color: #ff5777;
+  border-bottom: 6rpx solid #ff5777;
+}

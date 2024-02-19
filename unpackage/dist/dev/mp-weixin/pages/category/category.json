@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tab-menu": "./cpns/tab-menu",
+    "tab-content-category": "./cpns/tab-content-category",
+    "tab-control": "../../components/tab-control/tab-control",
+    "grid-view-item": "../../components/grid-view-item/grid-view-item"
+  }
+}

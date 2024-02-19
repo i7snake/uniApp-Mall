@@ -1,0 +1,3 @@
+.banner .swiper-image {
+  width: 100%;
+}

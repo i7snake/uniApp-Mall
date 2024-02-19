@@ -1,0 +1,6 @@
+.detail-swiper {
+  background-color: white;
+}
+.detail-swiper .banner-item .image {
+  width: 100%;
+}

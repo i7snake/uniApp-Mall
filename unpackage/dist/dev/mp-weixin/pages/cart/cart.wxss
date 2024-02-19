@@ -1,0 +1,6 @@
+page, .cart {
+  height: 100%;
+}
+.cart-scroll {
+  height: calc(100% - 88rpx);
+}

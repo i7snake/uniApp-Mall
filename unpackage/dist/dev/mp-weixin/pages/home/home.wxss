@@ -1,0 +1,17 @@
+.tab-control {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0rpx;
+  z-index: 100;
+  background-color: white;
+}
+.goods-list {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 16rpx;
+}
+.goods-list .item {
+  width: 48%;
+}

@@ -1,0 +1,1 @@
+<view class="home-popular"><image class="image" src="{{a}}" mode="widthFix"></image></view>

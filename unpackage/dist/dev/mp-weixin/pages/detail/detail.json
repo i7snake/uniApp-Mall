@@ -1,0 +1,14 @@
+{
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "detail-nav-bar": "./cpns/detail-nav-bar",
+    "detail-botton-bar": "./cpns/detail-bottom-bar",
+    "detail-swiper": "./cpns/detail-swiper",
+    "detail-base-info": "./cpns/detail-base-info",
+    "detail-shop-info": "./cpns/detail-shop-info",
+    "detail-goods-info": "./cpns/detail-goods-info",
+    "detail-param-info": "./cpns/detail-param-info",
+    "detail-comment-info": "./cpns/detail-comment-info",
+    "detail-recommend-info": "./cpns/detail-recommend-info"
+  }
+}
